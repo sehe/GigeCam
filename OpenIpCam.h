@@ -1,8 +1,0 @@
-
-class OpenIpCam {
-
-
-public:
-    OpenIpCam() {
-    }
-};
